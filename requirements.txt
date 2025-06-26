@@ -1,9 +1,9 @@
 numpy
 pandas
-sklearn
+scikit-learn
 matplotlib
 seaborn
 tensorflow
 keras
-cv2
+opencv-contrib-python
 spotipy
